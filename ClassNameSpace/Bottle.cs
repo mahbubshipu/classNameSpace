@@ -9,6 +9,7 @@ namespace ClassNameSpace
 {
     public class Bottle
     {
+        public static int bottleSerialNumber = 0;
         public string BottleColor { get; private set; }
         public double BottleHeight { get; private set; }
         public string Water { get; private set; }
@@ -33,6 +34,7 @@ namespace ClassNameSpace
             BottleColor = color;
             BottleHeight = height;
             MaterialName = "Plastic";
+            bottleSerialNumber++;
         }
         //public Bottle(double height)
         //{
