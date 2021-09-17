@@ -1,0 +1,16 @@
+E:\Work\ClassNameSpace\ClassNameSpace\bin\Debug\net5.0\ClassNameSpace.exe
+E:\Work\ClassNameSpace\ClassNameSpace\bin\Debug\net5.0\ClassNameSpace.deps.json
+E:\Work\ClassNameSpace\ClassNameSpace\bin\Debug\net5.0\ClassNameSpace.runtimeconfig.json
+E:\Work\ClassNameSpace\ClassNameSpace\bin\Debug\net5.0\ClassNameSpace.runtimeconfig.dev.json
+E:\Work\ClassNameSpace\ClassNameSpace\bin\Debug\net5.0\ClassNameSpace.dll
+E:\Work\ClassNameSpace\ClassNameSpace\bin\Debug\net5.0\ref\ClassNameSpace.dll
+E:\Work\ClassNameSpace\ClassNameSpace\bin\Debug\net5.0\ClassNameSpace.pdb
+E:\Work\ClassNameSpace\ClassNameSpace\obj\Debug\net5.0\ClassNameSpace.csproj.AssemblyReference.cache
+E:\Work\ClassNameSpace\ClassNameSpace\obj\Debug\net5.0\ClassNameSpace.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\ClassNameSpace\ClassNameSpace\obj\Debug\net5.0\ClassNameSpace.AssemblyInfoInputs.cache
+E:\Work\ClassNameSpace\ClassNameSpace\obj\Debug\net5.0\ClassNameSpace.AssemblyInfo.cs
+E:\Work\ClassNameSpace\ClassNameSpace\obj\Debug\net5.0\ClassNameSpace.csproj.CoreCompileInputs.cache
+E:\Work\ClassNameSpace\ClassNameSpace\obj\Debug\net5.0\ClassNameSpace.dll
+E:\Work\ClassNameSpace\ClassNameSpace\obj\Debug\net5.0\ref\ClassNameSpace.dll
+E:\Work\ClassNameSpace\ClassNameSpace\obj\Debug\net5.0\ClassNameSpace.pdb
+E:\Work\ClassNameSpace\ClassNameSpace\obj\Debug\net5.0\ClassNameSpace.genruntimeconfig.cache
